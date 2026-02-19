@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gardener", "Gardener.csproj", "{4F1A30B2-700B-4B26-B112-B9C4C5538330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gardener.Tests", "..\Gardener.Tests\Gardener.Tests.csproj", "{324F319F-F5D3-4F4F-BF34-2F8CB8CA86A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1A30B2-700B-4B26-B112-B9C4C5538330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1A30B2-700B-4B26-B112-B9C4C5538330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1A30B2-700B-4B26-B112-B9C4C5538330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1A30B2-700B-4B26-B112-B9C4C5538330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324F319F-F5D3-4F4F-BF34-2F8CB8CA86A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324F319F-F5D3-4F4F-BF34-2F8CB8CA86A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324F319F-F5D3-4F4F-BF34-2F8CB8CA86A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324F319F-F5D3-4F4F-BF34-2F8CB8CA86A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80D47363-2267-402B-8861-99952832D9C6}
+	EndGlobalSection
+EndGlobal
